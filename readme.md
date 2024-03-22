@@ -1,4 +1,4 @@
-# Mini File Encripting Script
+# Mini File Encrypting Script
 C Language
 
 #### Usage
